@@ -1,0 +1,18 @@
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\bin\Debug\BMR.exe.config
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\bin\Debug\BMR.exe
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\bin\Debug\BMR.pdb
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\obj\Debug\BMR.Form1.resources
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\obj\Debug\BMR.exe
+C:\Users\Stacja\Desktop\Monika\BMR\BMR\obj\Debug\BMR.pdb
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\bin\Debug\BMR.exe.config
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\bin\Debug\BMR.exe
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\bin\Debug\BMR.pdb
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\obj\Debug\BMR.Form1.resources
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\obj\Debug\BMR.exe
+D:\Studia\SEMESTR 4\PW - Programowanie Wizualne\LABKI\LAB2\BMR\BMR\obj\Debug\BMR.pdb

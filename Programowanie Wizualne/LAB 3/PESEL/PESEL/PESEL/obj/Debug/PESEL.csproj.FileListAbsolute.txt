@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\bin\Debug\PESEL.exe.config
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\bin\Debug\PESEL.exe
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\bin\Debug\PESEL.pdb
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\obj\Debug\PESEL.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\obj\Debug\PESEL.Form1.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\obj\Debug\PESEL.Properties.Resources.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\obj\Debug\PESEL.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\obj\Debug\PESEL.exe
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\lab3\PESEL\PESEL\PESEL\obj\Debug\PESEL.pdb
