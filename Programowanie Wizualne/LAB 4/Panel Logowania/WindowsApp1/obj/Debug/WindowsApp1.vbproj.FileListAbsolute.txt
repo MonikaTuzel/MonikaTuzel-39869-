@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\WindowsApp1.Rejestracja.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\bin\Debug\Panel logowania.exe.config
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\bin\Debug\Panel logowania.exe
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\bin\Debug\Panel logowania.pdb
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\bin\Debug\Panel logowania.xml
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\Panel logowania.exe
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\Panel logowania.xml
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\Panel logowania.pdb
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Panel Logowania\WindowsApp1\obj\Debug\WindowsApp1.Zalogowano.resources

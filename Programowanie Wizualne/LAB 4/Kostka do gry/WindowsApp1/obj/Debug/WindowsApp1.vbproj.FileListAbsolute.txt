@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\bin\Debug\Rzut kostką.exe.config
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\bin\Debug\Rzut kostką.exe
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\bin\Debug\Rzut kostką.pdb
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\bin\Debug\Rzut kostką.xml
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\WindowsApp1.Rzut.resources
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\Rzut kostką.exe
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\Rzut kostką.xml
+C:\Users\PC\Desktop\UCZELNIA\SEM IV\Programowanie Wizualne\LAB 4\Kostka do gry\WindowsApp1\obj\Debug\Rzut kostką.pdb
