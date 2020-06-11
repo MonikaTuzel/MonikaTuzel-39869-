@@ -1,0 +1,503 @@
+D:\PW\pw\lab9\Temp\bin\Debug\Assembly-CSharp.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\mscorlib.dll
+D:\PW\pw\lab9\Temp\bin\Debug\netstandard.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.AppContext.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Collections.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ComponentModel.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Console.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Core.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Data.Common.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Data.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Drawing.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Globalization.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.Compression.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.Pipes.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Linq.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.Http.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.Ping.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.Requests.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.Security.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.Sockets.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Numerics.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ObjectModel.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Reflection.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Resources.Reader.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Resources.Writer.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.Claims.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.Principal.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Security.SecureString.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Text.Encoding.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Threading.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Threading.Thread.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Threading.Timer.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Transactions.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.ValueTuple.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Web.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Windows.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.Linq.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.XPath.dll
+D:\PW\pw\lab9\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Timeline.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEditor.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEditor.UI.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UI.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Cecil.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\PW\pw\lab9\Temp\bin\Debug\ExCSS.Unity.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.CecilTools.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEditor.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Timeline.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\PW\pw\lab9\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\PW\pw\lab9\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\PW\pw\lab9\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\PW\pw\lab9\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\PW\pw\lab9\obj\Debug\Assembly-CSharp.dll
+D:\PW\pw\lab9\obj\Debug\Assembly-CSharp.pdb
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\mscorlib.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\netstandard.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\nunit.framework.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.AppContext.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Collections.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Console.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Core.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Data.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Drawing.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Globalization.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Linq.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Numerics.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Reflection.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Threading.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Transactions.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Web.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Windows.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEditor.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEditor.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\Temp\bin\Debug\nunit.framework.xml
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\obj\Debug\Assembly-CSharp.dll
+C:\Users\PC\Desktop\pw-master PAWEL\pw-master\lab9\obj\Debug\Assembly-CSharp.pdb
